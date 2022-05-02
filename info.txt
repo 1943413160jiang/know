@@ -1,0 +1,6 @@
+仿知乎：
+http://api.vikingship.xyz/public/swagger/index.html
+http://docs.vikingship.xyz/
+
+https://thedogapi.com/
+https://thecatapi.com/
